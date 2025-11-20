@@ -6,7 +6,7 @@ Email Me 👉 ✉️ **chiteshchand8@gmail.com** For Collaboration/Project or An
 - 🔭 **I’m currently working on:** power bi project
 - 🌱 **I’m currently learning:** Data analyst , sql , powerbi
 - 👯 **I’m looking to collaborate on:** Enter your project name and info
-- 🤔 **I’m looking for help with:** Your project here
+- 🤔 **I’m looking for help with:** powerbi
 - 💬 **Ask me about:** AI-based project concepts for students , Mobile app ideas & beginner-level Android concepts
 - 📫 **How to reach me:** chiteshchand8@gmail.com
 - 😄 **Pronouns:** vitesh sir
